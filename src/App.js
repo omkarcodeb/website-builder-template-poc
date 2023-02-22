@@ -11,9 +11,9 @@ function App() {
     <div className="App">
       {/* <WebBuilder /> */}
       {/* <Load /> */}
-      <TheBeginning />
+      {/* <TheBeginning /> */}
       {/* <TheDesign /> */}
-      {/* <GraphesJsLatest /> */}
+      <GraphesJsLatest />
     </div>
   );
 }
